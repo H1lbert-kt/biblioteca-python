@@ -31,7 +31,7 @@ biblioteca.py    # Funções responsáveis pela lógica da biblioteca
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/biblioteca-python.git
+git clone https://github.com/H1lbert-kt/biblioteca-python.git
 ```
 
 2. Entre na pasta do projeto:
